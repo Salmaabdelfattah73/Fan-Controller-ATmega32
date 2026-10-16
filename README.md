@@ -1,31 +1,19 @@
 <h1 align="center">Temperature-Controlled Fan System</h1>
 
-
-
 <p align="center">
-
 An embedded system that regulates the speed of a DC fan automatically, based on the ambient temperature measured by an LM35 sensor.
-
 </p>
-
-
 
 <p align="center">
-
-&#x20; <img src="https://img.shields.io/badge/MCU-ATmega32-blue" />
-
-&#x20; <img src="https://img.shields.io/badge/Language-Embedded%20C-green" />
-
-&#x20; <img src="https://img.shields.io/badge/Architecture-Layered-purple" />
-
-&#x20; <img src="https://img.shields.io/badge/Simulation-Proteus-lightgrey" />
-
+  <img src="https://img.shields.io/badge/MCU-ATmega32-blue" />
+  <img src="https://img.shields.io/badge/Language-Embedded%20C-green" />
+  <img src="https://img.shields.io/badge/Architecture-Layered-purple" />
+  <img src="https://img.shields.io/badge/Simulation-Proteus-lightgrey" />
 </p>
 
+---
 
-
-\---
-
+## Table of Contents
 
 
 \## Table of Contents
